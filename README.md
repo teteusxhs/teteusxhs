@@ -35,7 +35,6 @@
 ---
 
 ## 📫 Contato
-Quer trocar uma ideia ou ver meus projetos?  
-Me chama nas issues ou dá uma olhada no que estou desenvolvendo por aqui 😄
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdomingostec)
 
 ---
