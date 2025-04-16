@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">👋 Bem-vindo ao meu GitHub!</h1>
 
-<!--
-**teteusxhs/teteusxhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas, explorando o universo da programação orientada a objetos e desenvolvimento backend.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- 🎓 Atualmente cursando ADS
+- 💻 Focado em backend com Java
+- 🔧 Trabalhando com Git e versionamento
+- 📈 Buscando crescimento contínuo na área de tecnologia
+
+---
+
+## 🛠️ Tecnologias que estou aprendendo
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge"/>
+</div>
+
+---
+
+## 📌 Objetivos no GitHub
+- Criar e publicar projetos pessoais
+- Praticar conceitos de POO
+- Compartilhar meu progresso de aprendizado
+- Interagir e colaborar com a comunidade dev
+
+---
+
+## 📂 Repositórios em destaque
+🔹 [Projeto POO Java](https://github.com/teteusxhs/projeto-poo-java) – Exercícios com classes, objetos e herança em Java
+
+---
+
+## 📫 Contato
+Quer trocar uma ideia ou ver meus projetos?  
+Me chama nas issues ou dá uma olhada no que estou desenvolvendo por aqui 😄
+
+---
