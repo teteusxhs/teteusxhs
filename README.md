@@ -5,10 +5,10 @@
 ---
 
 ## 🧠 Sobre mim
-- 🎓 Atualmente cursando ADS
-- 💻 Focado em backend com Java
-- 🔧 Trabalhando com Git e versionamento
-- 📈 Buscando crescimento contínuo na área de tecnologia
+- 🎓 Atualmente cursando ADS  
+- 💻 Focado em backend com Java  
+- 🔧 Trabalhando com Git e versionamento  
+- 📈 Buscando crescimento contínuo na área de tecnologia  
 
 ---
 
@@ -22,19 +22,20 @@
 ---
 
 ## 📌 Objetivos no GitHub
-- Criar e publicar projetos pessoais
-- Praticar conceitos de POO
-- Compartilhar meu progresso de aprendizado
-- Interagir e colaborar com a comunidade dev
+- Criar e publicar projetos pessoais  
+- Praticar conceitos de POO  
+- Compartilhar meu progresso de aprendizado  
+- Interagir e colaborar com a comunidade dev  
 
 ---
 
 ## 📂 Repositórios em destaque
-🔹 [Projeto POO Java](https://github.com/teteusxhs/projeto-poo-java) – Exercícios com classes, objetos e herança em Java
+🔹 [Projeto POO Java](https://github.com/teteusxhs/projeto-poo-java) – Exercícios com classes, objetos e herança em Java  
 
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdomingostec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdomingostec)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdomingos.tec@gmail.com)
 
 ---
